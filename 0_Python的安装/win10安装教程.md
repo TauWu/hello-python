@@ -57,7 +57,7 @@ VS Code 的安装跟普通软件的安装基本无差，一路 Next 和 Install 
 
 ![image](../pics/0-7.png)
 
-代表已经安装完成，[点击这里](../README.md)返回目录~
+代表已经安装完成，[点击这里](../README.md#1-Hello-Python)返回目录~
 
 如果出现
 
