@@ -86,7 +86,7 @@ python test.py
 
 就会看到以下结果
 
-![image](../pics/0-14.png)
+![image](../pics/0-15.png)
 
 发现和括号里面包含的内容是一样的。
 
